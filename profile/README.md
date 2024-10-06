@@ -21,25 +21,6 @@ Willkommen bei HerbTrack! Unsere Mission ist es, Cannabis Social Clubs (CSCs) un
 - **Management:** Effiziente Verwaltung von Anbauvereinigungen mit unserer umfassenden SaaS-Lösung.
 - **Pflanzentracking:** Detaillierte Tracking-Tools für deinen Homegrow.
 
-## Gewinnspiel 🎉
-
-![Gewinne mit HerbTrack und HANF.com](https://cdn.herbtrack.de/images/coming-soon-gewinnspiel.png)
-
-Wie wäre es mit einem 50 Euro Gutschein für deinen Einkauf bei HANF.com? 🌿
-
-**So einfach geht's:**
-1. Registriere dich auf [herbtrack.de](https://herbtrack.de)
-2. Bestätige deine E-Mail-Adresse.
-3. Schon bist du im Lostopf!
-
-**Was gibt's zu gewinnen?**
-- 🎁 5x 50€ Gutscheine
-- 🎁 10x 25€ Gutscheine
-- 🌟 Gesamtwert aller Gewinne: 500€! 🌟
-
-**Teilnahmezeitraum:** 10.07.2024 - 31.08.2024  
-**Ziehung der Gewinner*innen:** 04.09.2024
-
 ## Keywords
 
 - **Cannabis**
