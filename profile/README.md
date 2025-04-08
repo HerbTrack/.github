@@ -45,4 +45,4 @@ Für weitere Informationen besuche unsere [Website](https://herbtrack.de) oder k
 
 ---
 
-© 2024 HerbTrack. Alle Rechte vorbehalten.
+© 2025 HerbTrack. Alle Rechte vorbehalten.
